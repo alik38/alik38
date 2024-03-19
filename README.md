@@ -30,44 +30,44 @@
 
 ###
 
-## > Cloud platforms
-## <h3 align="left">> [![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)  Amazon Web Services (AWS)  <</h3> 
+## <h3 align="left">> > Cloud platforms <</h3> 
+## <h4 align="left">> [![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)  Amazon Web Services (AWS) <</h4> 
 ##
-## > Continuous Integration/Continuous Deployment (CI/CD) tools
-## [![My Skills](https://skillicons.dev/icons?i=jenkins)](https://skillicons.dev)JENKINS
-## [![My Skills](https://skillicons.dev/icons?i=gitlab)](https://skillicons.dev)GITLAB
-## [![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)AWS-CodePipeline
+## <h3 align="left">> > Continuous Integration/Continuous Deployment (CI/CD) tools <</h3> 
+## <h4 align="left">> [![My Skills](https://skillicons.dev/icons?i=jenkins)](https://skillicons.dev)JENKINS <</h4>
+## <h4 align="left">> [![My Skills](https://skillicons.dev/icons?i=gitlab)](https://skillicons.dev)GITLAB <</h4>
+## <h4 align="left">> [![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)AWS-CodePipeline <</h4>
 ##
-## > Containerization tools 
-## [![My Skills](https://skillicons.dev/icons?i=docker&perline=3)](https://skillicons.dev) DOCKER
-## [![My Skills](https://skillicons.dev/icons?i=kubernetes&perline=3)](https://skillicons.dev)KUBERNETES
-## [![My Skills](https://skillicons.dev/icons?i=helm&perline=3)](https://skillicons.dev)HELM
+## <h3 align="left">> > Containerization tools <</h3> 
+## [![My Skills](https://skillicons.dev/icons?i=docker&perline=3)](https://skillicons.dev) DOCKER <h4 align="left">>  <</h4> 
+## [![My Skills](https://skillicons.dev/icons?i=kubernetes&perline=3)](https://skillicons.dev)KUBERNETES <h4 align="left">>  <</h4> 
+## [![My Skills](https://skillicons.dev/icons?i=helm&perline=3)](https://skillicons.dev)HELM <h4 align="left">>  <</h4> 
 ##
-## > Configuration Management tool
-## [![My Skills](https://skillicons.dev/icons?i=ansible)](https://skillicons.dev)ANSIBLE
+## <h3 align="left">> > Configuration Management tool <</h3> 
+## <h4 align="left">> [![My Skills](https://skillicons.dev/icons?i=ansible)](https://skillicons.dev)ANSIBLE <</h4> 
 ##
-## > Infrastructure as Code (IaC) tools 
-## [![My Skills](https://skillicons.dev/icons?i=terraform)](https://skillicons.dev)TERRAFORM
-## [![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)AWS-CloudFormation
-## > Monitoring and Logging tools 
-## [![My Skills](https://skillicons.dev/icons?i=grafana)](https://skillicons.dev)GRAFANA
-## [![My Skills](https://skillicons.dev/icons?i=prometheus)](https://skillicons.dev)PROMETHEUS
+## <h3 align="left">> > Infrastructure as Code (IaC) tools <</h3>
+## <h4 align="left">> [![My Skills](https://skillicons.dev/icons?i=terraform)](https://skillicons.dev)TERRAFORM <</h4> 
+## <h4 align="left">> [![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)AWS-CloudFormation <</h4> 
+## <h3 align="left">> > Monitoring and Logging tools <</h3>
+## <h4 align="left">> [![My Skills](https://skillicons.dev/icons?i=grafana)](https://skillicons.dev)GRAFANA <</h4> 
+## <h4 align="left">> [![My Skills](https://skillicons.dev/icons?i=prometheus)](https://skillicons.dev)PROMETHEUS <</h4> 
 ## 
-## > Container Management Platform
-## [![My Skills](https://skillicons.dev/icons?i=rancher)](https://skillicons.dev)RANCHER
+## <h3 align="left">> > Container Management Platform <</h3>
+## <h4 align="left">> [![My Skills](https://skillicons.dev/icons?i=rancher)](https://skillicons.dev)RANCHER <</h4> 
 ##
-## > Version Control Systems
-## [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)GIT
-## [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)GITHUB
+## <h3 align="left">> > Version Control Systems  <</h3>
+## <h4 align="left">> [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)GIT <</h4> 
+## <h4 align="left">> [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)GITHUB <</h4> 
 
 ##
-## [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)LINUX
-## [![My Skills](https://skillicons.dev/icons?i=py )](https://skillicons.dev)PYTHON
-## [![My Skills](https://skillicons.dev/icons?i=yaml)](https://skillicons.dev)YAML
-## [![My Skills](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)SHELL SCRIPT
-## [![My Skills](https://skillicons.dev/icons?i=code)](https://skillicons.dev)GROOVY
-## [![My Skills](https://skillicons.dev/icons?i=js )](https://skillicons.dev)JSON
-## [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)SQL
-## [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)VSCODE
+## <h4 align="left">> [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)LINUX <</h4> 
+## <h4 align="left">> [![My Skills](https://skillicons.dev/icons?i=py )](https://skillicons.dev)PYTHON <</h4> 
+## <h4 align="left">> [![My Skills](https://skillicons.dev/icons?i=yaml)](https://skillicons.dev)YAML <</h4> 
+## <h4 align="left">> [![My Skills](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)SHELL SCRIPT <</h4> 
+## <h4 align="left">>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" height="40" alt="groovy logo"  /> GROOVY <</h4> 
+## <h4 align="left">> [![My Skills](https://skillicons.dev/icons?i=js )](https://skillicons.dev)JSON <</h4> 
+## <h4 align="left">> [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)SQL <</h4> 
+## <h4 align="left">> [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)VSCODE <</h4> 
 
 ###
