@@ -15,7 +15,7 @@
 <p align="left"> </p>
 
 ###
-<h3 align="left">> Tools, platform and programing language <</h3>
+<h3 align="left"> Tools, platform and programing language </h3>
 <p align="left"> </p>
   
 ### <h3 align="left"> Cloud platforms </h3> 
