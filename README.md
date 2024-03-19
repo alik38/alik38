@@ -5,7 +5,7 @@
 
 ## <h4 align="right"> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ali-kus/) </h4>
 <p align="left"> </p>
-###
+
 <h3 align="left"> Education And Certification </h3>
 <p align="left">Cloud & DevOps Engineer Bootcamp</p>
 <p align="left">SUNY Maritime College  -  Master of Science in International Transportation Management</p>
