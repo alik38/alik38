@@ -2,6 +2,9 @@
 
 <p align="left">I'm Ali. Before I embarked on my journey in DevOps, I sailed the high seas as a ship officer. Picture it: me, navigating storms and troubleshooting with my trusty crew. Believe it or not, ship management and code deployment share some surprising parallels! Now, I'm a DevOps engineer, blending my maritime wisdom with tech prowess. Passionate about this voyage, I'm eager to sail new horizons and grow alongside a dynamic team. Anchors aweigh for innovation!⚓🚀</p>
 
+
+## <h4 align="right"> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ali-kus/) </h4>
+<p align="left"> </p>
 ###
 <h3 align="left"> Education And Certification </h3>
 <p align="left">Cloud & DevOps Engineer Bootcamp</p>
