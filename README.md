@@ -19,7 +19,7 @@
 <p align="left"> </p>
   
 ### <h3 align="left"> Cloud platforms </h3> 
-## <p align="left"> [![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)  Amazon Web Services (AWS) </p> 
+## <h5 align="left"> [![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)  Amazon Web Services (AWS) </h5> 
 
 ### <h3 align="left"> Continuous Integration/Continuous Deployment (CI/CD) tools </h3> 
 ## <h4 align="left"> [![My Skills](https://skillicons.dev/icons?i=jenkins)](https://skillicons.dev) JENKINS </h4>
