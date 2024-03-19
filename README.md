@@ -8,7 +8,7 @@
 <p align="left">SUNY Maritime College  -  Master of Science in International Transportation Management</p>
 <p align="left">AWS Certified Solutions Architect – Associate</p>
 <p align="left">AWS Certified Cloud Practitioner</p>
-
+## <h4 align="right"> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ali-kus/) </h4> 
 ###
 <h3 align="left">> Tools, platform and programing language <</h3>
 
@@ -23,7 +23,6 @@
 ### <h3 align="left"> Containerization tools </h3>
 ## <h4 align="left"> [![My Skills](https://skillicons.dev/icons?i=docker&perline=3)](https://skillicons.dev) DOCKER </h4> 
 ## <h4 align="left"> [![My Skills](https://skillicons.dev/icons?i=kubernetes&perline=3)](https://skillicons.dev) KUBERNETES </h4> 
-## <h4 align="left"> [![My Skills](https://skillicons.dev/icons?i=helm&perline=3)](https://skillicons.dev) HELM </h4>
 
 ### <h3 align="left"> Configuration Management tool </h3>
 ## <h4 align="left"> [![My Skills](https://skillicons.dev/icons?i=ansible)](https://skillicons.dev) ANSIBLE </h4> 
@@ -46,7 +45,6 @@
   
 ## <h4 align="left"> [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev) LINUX </h4> 
 ## <h4 align="left"> [![My Skills](https://skillicons.dev/icons?i=py )](https://skillicons.dev) PYTHON </h4> 
-## <h4 align="left"> [![My Skills](https://skillicons.dev/icons?i=yaml)](https://skillicons.dev) YAML </h4> 
 ## <h4 align="left"> [![My Skills](https://skillicons.dev/icons?i=bash)](https://skillicons.dev) SHELL SCRIPT </h4> 
 ## <h4 align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" height="40" alt="groovy logo"  /> GROOVY </h4> 
 ## <h4 align="left"> [![My Skills](https://skillicons.dev/icons?i=js )](https://skillicons.dev) JSON </h4> 
@@ -56,5 +54,5 @@
 
 <p align="left"> </p>
 
-## <h4 align="left"> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ali-kus/) </h4> 
+## <h4 align="right"> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ali-kus/) </h4> 
 
