@@ -31,7 +31,7 @@
 ###
 
 ## > Cloud platforms
-## [![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)  Amazon Web Services (AWS)
+## <h3 align="left">> [![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)  Amazon Web Services (AWS)  <</h3> 
 ##
 ## > Continuous Integration/Continuous Deployment (CI/CD) tools
 ## [![My Skills](https://skillicons.dev/icons?i=jenkins)](https://skillicons.dev)JENKINS
