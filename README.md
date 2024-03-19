@@ -8,7 +8,8 @@
 <p align="left">SUNY Maritime College  -  Master of Science in International Transportation Management</p>
 <p align="left">AWS Certified Solutions Architect – Associate</p>
 <p align="left">AWS Certified Cloud Practitioner</p>
-## <h4 align="right"> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ali-kus/) </h4> 
+<h4 align="right"> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ali-kus/)
+  
 ###
 <h3 align="left">> Tools, platform and programing language <</h3>
 
