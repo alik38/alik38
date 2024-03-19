@@ -55,6 +55,6 @@
 ## <h4 align="left"> [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev) VSCODE </h4> 
 
 <p align="left"> </p>
-### <h3 align="left"> 🌐 Socials: </h3>
+
 ## <h4 align="left"> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ali-kus/) </h4> 
 
